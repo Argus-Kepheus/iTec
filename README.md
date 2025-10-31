@@ -36,8 +36,9 @@ project/
 │   ├── Perplexity/
 │   ├── Qwen/
 │   ├── You/
+│   ├── Prompt + input.md
 ├── Prompt.md
-├── input.md
+
 ```
 ---
 
