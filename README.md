@@ -47,7 +47,7 @@ project/
 ### `Prompt.md`
 Contains the engineered prompt responsible for guiding each LLM in the academic revision process. It defines all operational rules, security constraints, reference formatting transformations, and output structure.
 
-### `input.md`
+### `Prompt + input.md`
 - Contains the original academic draft provided by the user coupled/mounted monolitically in `Prompt.md`.
 - Serves as the standardized source text shared across all models.
 
@@ -80,8 +80,8 @@ Each subfolder contains:
 
 ## Workflow
 
-1. Place your academic draft in `input.md` in the GUI or API of each selected LLM.  
-2. Run the unified **Academic Text Revision Prompt** from `Prompt.md` through each target model.  
+1. Place/couple/mount your academic raw/draft in `Prompt.md` in the brackets "[Insert complete text including title]"; this will generate your `Prompt + input.md` version.
+2. Run the unified **Academic Text Revision Prompt** from your `Prompt + input.md` through each target GUI/API LLM model.  
 3. Retrieve and save the generated revised text into the corresponding LLM folder.  
 4. Compile each model’s output using the LaTeX template to maintain consistent formatting.  
 5. Review the generated PDF to evaluate linguistic accuracy, formatting quality, and reference consistency.
