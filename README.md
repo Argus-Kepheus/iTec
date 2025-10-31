@@ -13,7 +13,7 @@ This framework enables a direct **comparative evaluation of 12 distinct LLMs**, 
 ---
 
 ## Folder Structure
-
+```
 project/
 ├── LaTeX template/
 │   └── [LaTeX formatting files and style definitions]
@@ -38,7 +38,7 @@ project/
 │   ├── You/
 ├── Prompt.md
 ├── input.md
-
+```
 ---
 
 ## Components
