@@ -72,11 +72,11 @@ Contains the engineered prompt responsible for guiding each LLM in the academic 
 - `DeepSeek`    — DeepSeek AI     — China          — [https://www.deepseek.com/en](https://www.deepseek.com/en)
 - `Gemini`      — Google DeepMind — United States  — [https://gemini.google.com](https://gemini.google.com)
 - `Grok`        — xAI             — United States  — [https://grok.com](https://grok.com)
-- `Le Chat`     — Mistral         — France         — [https://mistral.ai/en/products/le-chat](https://mistral.ai/en/products/le-chat)
+- `Le Chat`     — Mistral         — France         — [https://mistral.ai/en](https://mistral.ai/en/products/le-chat)
 - `Maritaca`    — Maritaca AI     — Brazil         — [https://www.maritaca.ai](https://www.maritaca.ai)
-- `Meta`        — Meta AI         — United States  — [https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant)
+- `Meta`        — Meta AI         — United States  — [https://meta.ai](https://meta.ai)
 - `Perplexity`  — Perplexity AI   — United States  — [https://www.perplexity.ai](https://www.perplexity.ai)
-- `Qwen`        — Alibaba         — China          — [https://qwen.ai/home](https://qwen.ai/home)
+- `Qwen`        — Alibaba         — China          — [https://qwen.ai](https://qwen.ai)
 - `You`         — You.com         — United States  — [https://you.com](https://you.com)
 
 
