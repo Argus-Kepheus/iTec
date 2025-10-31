@@ -9,5 +9,3 @@
 *.synctex.gz
 *.fdb_latexmk
 *.fls
-# PDFs gerados
-*.pdf
